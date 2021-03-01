@@ -10,8 +10,7 @@ import (
 )
 
 type Profile struct {
-	Repositories []string
-	PostsList    map[string]string
+	PostsList map[string]string
 }
 
 var postsList = make(map[string]string)
@@ -30,7 +29,7 @@ func main() {
 	}
 
 	for index, post := range feed.Items {
-		if index == 6 {
+		if index == 10 {
 			break
 		}
 
@@ -41,8 +40,7 @@ func main() {
 		postsList[post.Title] = post.Link
 	}
 	profile := Profile{
-		Repositories: reposList,
-		PostsList:    postsList,
+		PostsList: postsList,
 	}
 
 	f, err := os.Create("README.MD")
