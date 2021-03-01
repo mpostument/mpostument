@@ -14,7 +14,6 @@ type Profile struct {
 	PostsList    map[string]string
 }
 
-var reposList = []string{"awstaghelper", "grafana-sync", "ebs-autoresize"}
 var postsList = make(map[string]string)
 
 func main() {
@@ -31,15 +30,15 @@ func main() {
 	}
 
 	for index, post := range feed.Items {
+		if index == 6 {
+			break
+		}
+
 		if strings.Contains(post.Link, "/projects/") {
 			continue
 		}
 
 		postsList[post.Title] = post.Link
-		if index == 5 {
-			break
-		}
-
 	}
 	profile := Profile{
 		Repositories: reposList,
