@@ -9,11 +9,10 @@ import (
 	"github.com/mmcdole/gofeed"
 )
 
-type Profile struct {
-	PostsList map[string]string
+type ReadmeData struct {
+	Title string
+	Link  string
 }
-
-var postsList = make(map[string]string)
 
 func main() {
 	template, err := template.ParseFiles("README.tmpl")
@@ -28,8 +27,9 @@ func main() {
 		log.Fatalln(err)
 	}
 
+	postList := []ReadmeData{}
 	for index, post := range feed.Items {
-		if index == 10 {
+		if index == 7 {
 			break
 		}
 
@@ -37,10 +37,11 @@ func main() {
 			continue
 		}
 
-		postsList[post.Title] = post.Link
-	}
-	profile := Profile{
-		PostsList: postsList,
+		readmeData := ReadmeData{
+			Title: post.Title,
+			Link:  post.Link,
+		}
+		postList = append(postList, readmeData)
 	}
 
 	f, err := os.Create("README.MD")
@@ -48,7 +49,7 @@ func main() {
 		log.Fatalln(err)
 	}
 
-	err = template.Execute(f, profile)
+	err = template.Execute(f, postList)
 	if err != nil {
 		log.Fatalln(err)
 	}
