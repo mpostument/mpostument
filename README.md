@@ -8,14 +8,6 @@
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (1 month ago)
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (3 months ago)
 
-#### 🌱 My latest projects
-
-- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
-- [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) - 
-- [mpostument/mpostument.github.io](https://github.com/mpostument/mpostument.github.io) - 
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool
-
 #### 🔭 Latest releases I've contributed to
 
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.3.0](https://github.com/mpostument/grafana-sync/releases/tag/1.3.0), 2 weeks ago) - Keep your Grafana dashboards in sync
@@ -36,5 +28,3 @@
 
 - Twitter: https://twitter.com/Maks_Postument
 - Blog: https://mpostument.com/
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
