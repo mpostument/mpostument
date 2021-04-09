@@ -5,7 +5,7 @@
 - [mpostument/mpostument.github.io](https://github.com/mpostument/mpostument.github.io) -  (1 month ago)
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 month ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (1 month ago)
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (1 month ago)
+- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (2 months ago)
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
