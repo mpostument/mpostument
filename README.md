@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (3 days ago)
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (4 days ago)
 - [mpostument/mpostument.github.io](https://github.com/mpostument/mpostument.github.io) -  (1 month ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (2 months ago)
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (2 months ago)
@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.0](https://github.com/mpostument/grafana-sync/releases/tag/1.4.0), 4 days ago) - Keep your Grafana dashboards in sync
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.0](https://github.com/mpostument/grafana-sync/releases/tag/1.4.0), 5 days ago) - Keep your Grafana dashboards in sync
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) ([1.1.0](https://github.com/mpostument/ebs-autoresize/releases/tag/1.1.0), 2 months ago) - Automatically resize your ebs
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) ([1.0.2](https://github.com/mpostument/SteamWishlistScraper/releases/tag/1.0.2), 4 months ago) - 
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.17.1](https://github.com/mpostument/awstaghelper/releases/tag/0.17.1), 4 months ago) - AWS bulk tagging tool
@@ -22,7 +22,7 @@
 - [ebs-autoresize](/projects/ebs-autoresize/) (2 months ago)
 - [Ebs Auto Resize](/2021/02/06/ebs-auto-resize/) (2 months ago)
 - [Failed Asg Event Notification](/2021/01/03/failed-asg-event-notification/) (3 months ago)
-- [Import Grafana Dashboards With Go](/2020/12/23/import-grafana-dashboards-with-go/) (3 months ago)
+- [Import Grafana Dashboards With Go](/2020/12/23/import-grafana-dashboards-with-go/) (4 months ago)
 
 #### 📫 How to reach me
 
