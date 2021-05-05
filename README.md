@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ewilde/go-runscope](https://github.com/ewilde/go-runscope) - go client library for the runscope  api https://www.runscope.com/docs/api (5 days ago)
+- [ewilde/go-runscope](https://github.com/ewilde/go-runscope) - go client library for the runscope  api https://www.runscope.com/docs/api (6 days ago)
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (2 weeks ago)
 - [mpostument/mpostument.github.io](https://github.com/mpostument/mpostument.github.io) -  (1 month ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 📜 My recent blog posts
 
-- [Latest post in GitHub readme](/2021/03/06/latest_post_in_github_readme/) (1 month ago)
+- [Latest post in GitHub readme](/2021/03/06/latest_post_in_github_readme/) (2 months ago)
 - [ebs-autoresize](/projects/ebs-autoresize/) (2 months ago)
 - [Ebs Auto Resize](/2021/02/06/ebs-auto-resize/) (2 months ago)
 - [Failed Asg Event Notification](/2021/01/03/failed-asg-event-notification/) (4 months ago)
