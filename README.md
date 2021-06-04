@@ -18,7 +18,7 @@
 
 #### 📜 My recent blog posts
 
-- [Latest post in GitHub readme](/2021/03/06/latest_post_in_github_readme/) (2 months ago)
+- [Latest post in GitHub readme](/2021/03/06/latest_post_in_github_readme/) (3 months ago)
 - [ebs-autoresize](/projects/ebs-autoresize/) (3 months ago)
 - [Ebs Auto Resize](/2021/02/06/ebs-auto-resize/) (3 months ago)
 - [Failed Asg Event Notification](/2021/01/03/failed-asg-event-notification/) (5 months ago)
