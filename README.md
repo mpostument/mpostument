@@ -18,11 +18,11 @@
 
 #### 📜 My recent blog posts
 
+- [Two Number Sum](/2021/08/04/two-number-sum/) (1 day ago)
 - [Latest post in GitHub readme](/2021/03/06/latest_post_in_github_readme/) (5 months ago)
 - [ebs-autoresize](/projects/ebs-autoresize/) (5 months ago)
 - [Ebs Auto Resize](/2021/02/06/ebs-auto-resize/) (6 months ago)
 - [Failed Asg Event Notification](/2021/01/03/failed-asg-event-notification/) (7 months ago)
-- [Import Grafana Dashboards With Go](/2020/12/23/import-grafana-dashboards-with-go/) (7 months ago)
 
 #### 📫 How to reach me
 
