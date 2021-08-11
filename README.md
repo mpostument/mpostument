@@ -18,11 +18,11 @@
 
 #### 📜 My recent blog posts
 
-- [Validate Subsequence](/2021/08/05/validate-subsequence/) (6 days ago)
-- [Two Number Sum](/2021/08/04/two-number-sum/) (1 week ago)
-- [Latest post in GitHub readme](/2021/03/06/latest_post_in_github_readme/) (5 months ago)
-- [ebs-autoresize](/projects/ebs-autoresize/) (5 months ago)
-- [Ebs Auto Resize](/2021/02/06/ebs-auto-resize/) (6 months ago)
+- [Validate Subsequence](https://mpostument.com/2021/08/05/validate-subsequence/) (6 days ago)
+- [Two Number Sum](https://mpostument.com/2021/08/04/two-number-sum/) (1 week ago)
+- [Latest post in GitHub readme](https://mpostument.com/2021/03/06/latest_post_in_github_readme/) (5 months ago)
+- [ebs-autoresize](https://mpostument.com/projects/ebs-autoresize/) (5 months ago)
+- [Ebs Auto Resize](https://mpostument.com/2021/02/06/ebs-auto-resize/) (6 months ago)
 
 #### 📫 How to reach me
 
