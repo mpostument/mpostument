@@ -12,7 +12,7 @@
 
 #### 📜 My recent blog posts
 {{range rss "https://mpostument.com/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}](https://mpostument.com{{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📫 How to reach me
