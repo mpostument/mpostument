@@ -18,7 +18,7 @@
 
 #### 📜 My recent blog posts
 
-- [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (5 days ago)
+- [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (6 days ago)
 - [Validate Subsequence](https://mpostument.com/2021/08/05/validate-subsequence/) (1 week ago)
 - [Two Number Sum](https://mpostument.com/2021/08/04/two-number-sum/) (1 week ago)
 - [Latest post in GitHub readme](https://mpostument.com/2021/03/06/latest_post_in_github_readme/) (5 months ago)
