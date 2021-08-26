@@ -18,9 +18,9 @@
 
 #### 📜 My recent blog posts
 
-- [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (2 days ago)
+- [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (3 days ago)
 - [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (2 weeks ago)
-- [Validate Subsequence](https://mpostument.com/2021/08/05/validate-subsequence/) (2 weeks ago)
+- [Validate Subsequence](https://mpostument.com/2021/08/05/validate-subsequence/) (3 weeks ago)
 - [Two Number Sum](https://mpostument.com/2021/08/04/two-number-sum/) (3 weeks ago)
 - [Latest post in GitHub readme](https://mpostument.com/2021/03/06/latest-post-in-github-readme/) (5 months ago)
 
