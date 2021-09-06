@@ -18,11 +18,11 @@
 
 #### 📜 My recent blog posts
 
+- [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (today)
 - [Node Depths](https://mpostument.com/2021/08/26/node-depths/) (1 week ago)
 - [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (2 weeks ago)
 - [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (3 weeks ago)
 - [Validate Subsequence](https://mpostument.com/2021/08/05/validate-subsequence/) (1 month ago)
-- [Two Number Sum](https://mpostument.com/2021/08/04/two-number-sum/) (1 month ago)
 
 #### 📫 How to reach me
 
