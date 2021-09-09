@@ -18,10 +18,10 @@
 
 #### 📜 My recent blog posts
 
-- [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (2 days ago)
-- [Node Depths](https://mpostument.com/2021/08/26/node-depths/) (1 week ago)
+- [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (3 days ago)
+- [Node Depths](https://mpostument.com/2021/08/26/node-depths/) (2 weeks ago)
 - [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (2 weeks ago)
-- [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (4 weeks ago)
+- [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (1 month ago)
 - [Validate Subsequence](https://mpostument.com/2021/08/05/validate-subsequence/) (1 month ago)
 
 #### 📫 How to reach me
