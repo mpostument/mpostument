@@ -18,7 +18,7 @@
 
 #### 📜 My recent blog posts
 
-- [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (2 weeks ago)
+- [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (3 weeks ago)
 - [Node Depths](https://mpostument.com/2021/08/26/node-depths/) (1 month ago)
 - [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (1 month ago)
 - [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (1 month ago)
