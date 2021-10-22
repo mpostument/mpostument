@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.3](https://github.com/mpostument/grafana-sync/releases/tag/1.4.3), 6 days ago) - Keep your Grafana dashboards in sync
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.3](https://github.com/mpostument/grafana-sync/releases/tag/1.4.3), 1 week ago) - Keep your Grafana dashboards in sync
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) ([1.1.0](https://github.com/mpostument/ebs-autoresize/releases/tag/1.1.0), 8 months ago) - Automatically resize your ebs
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) ([1.0.2](https://github.com/mpostument/SteamWishlistScraper/releases/tag/1.0.2), 10 months ago) - 
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.17.1](https://github.com/mpostument/awstaghelper/releases/tag/0.17.1), 10 months ago) - AWS bulk tagging tool
@@ -20,7 +20,7 @@
 
 - [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (1 month ago)
 - [Node Depths](https://mpostument.com/2021/08/26/node-depths/) (1 month ago)
-- [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (1 month ago)
+- [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (2 months ago)
 - [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (2 months ago)
 - [Validate Subsequence](https://mpostument.com/2021/08/05/validate-subsequence/) (2 months ago)
 
