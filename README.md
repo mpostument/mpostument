@@ -19,7 +19,7 @@
 
 - [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (2 months ago)
 - [Node Depths](https://mpostument.com/2021/08/26/node-depths/) (2 months ago)
-- [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (2 months ago)
+- [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (3 months ago)
 - [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (3 months ago)
 - [Validate Subsequence](https://mpostument.com/2021/08/05/validate-subsequence/) (3 months ago)
 
