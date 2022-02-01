@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
+- [Read and Write lock in Go](https://mpostument.com/2022/01/31/rwlock/) (1 day ago)
 - [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (4 months ago)
 - [Node Depths](https://mpostument.com/2021/08/26/node-depths/) (5 months ago)
 - [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (5 months ago)
 - [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (5 months ago)
-- [Validate Subsequence](https://mpostument.com/2021/08/05/validate-subsequence/) (6 months ago)
 
 #### 📫 How to reach me
 
