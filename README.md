@@ -6,7 +6,7 @@
 - [ewilde/go-runscope](https://github.com/ewilde/go-runscope) - go client library for the runscope  api https://www.runscope.com/docs/api (9 months ago)
 - [mpostument/mpostument.github.io](https://github.com/mpostument/mpostument.github.io) -  (11 months ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (11 months ago)
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (11 months ago)
+- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -16,8 +16,8 @@
 
 #### 📜 My recent blog posts
 
-- [Read and Write lock in Go](https://mpostument.com/2022/01/31/rwlock/) (2 days ago)
-- [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (4 months ago)
+- [Read and Write lock in Go](https://mpostument.com/2022/01/31/rwlock/) (3 days ago)
+- [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (5 months ago)
 - [Node Depths](https://mpostument.com/2021/08/26/node-depths/) (5 months ago)
 - [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (5 months ago)
 - [Find Closest Value in BST](https://mpostument.com/2021/08/10/find-closest-value-in-bst/) (5 months ago)
