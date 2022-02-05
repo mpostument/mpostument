@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Read and Write lock in Go](https://mpostument.com/2022/01/31/rwlock/) (4 days ago)
+- [Read and Write lock in Go](https://mpostument.com/2022/01/31/rwlock/) (5 days ago)
 - [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (5 months ago)
 - [Node Depths](https://mpostument.com/2021/08/26/node-depths/) (5 months ago)
 - [Branch Sum](https://mpostument.com/2021/08/23/branch-sum/) (5 months ago)
