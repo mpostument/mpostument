@@ -12,7 +12,6 @@
 
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.5](https://github.com/mpostument/grafana-sync/releases/tag/1.4.5), today) - Keep your Grafana dashboards in sync
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) ([1.1.0](https://github.com/mpostument/ebs-autoresize/releases/tag/1.1.0), 1 year ago) - Automatically resize your ebs
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.17.1](https://github.com/mpostument/awstaghelper/releases/tag/0.17.1), 1 year ago) - AWS bulk tagging tool
 
 #### 📜 My recent blog posts
 
