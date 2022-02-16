@@ -12,8 +12,8 @@
 
 #### 📜 My recent blog posts
 
-- [Sorted Squared Array](https://mpostument.com/2022/02/14/sorted-squared-array/) (1 day ago)
-- [WaitGroup](https://mpostument.com/2022/02/02/wait-groups/) (1 week ago)
+- [Sorted Squared Array](https://mpostument.com/2022/02/14/sorted-squared-array/) (2 days ago)
+- [WaitGroup](https://mpostument.com/2022/02/02/wait-groups/) (2 weeks ago)
 - [Read and Write lock in Go](https://mpostument.com/2022/01/31/rwlock/) (2 weeks ago)
 - [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (5 months ago)
 - [Node Depths](https://mpostument.com/2021/08/26/node-depths/) (5 months ago)
