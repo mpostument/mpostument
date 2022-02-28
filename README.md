@@ -13,9 +13,9 @@
 #### 📜 My recent blog posts
 
 - [Using Postgres With Golang](https://mpostument.com/2022/02/20/connecting-to-postgres-with-golang/) (1 week ago)
-- [Sorted Squared Array](https://mpostument.com/2022/02/14/sorted-squared-array/) (1 week ago)
+- [Sorted Squared Array](https://mpostument.com/2022/02/14/sorted-squared-array/) (2 weeks ago)
 - [WaitGroup](https://mpostument.com/2022/02/02/wait-groups/) (3 weeks ago)
-- [Read and Write lock in Go](https://mpostument.com/2022/01/31/rwlock/) (3 weeks ago)
+- [Read and Write lock in Go](https://mpostument.com/2022/01/31/rwlock/) (4 weeks ago)
 - [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (5 months ago)
 
 #### 📫 How to reach me
