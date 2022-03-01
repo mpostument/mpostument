@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (2 weeks ago)
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (3 weeks ago)
 - [ewilde/go-runscope](https://github.com/ewilde/go-runscope) - go client library for the runscope  api https://www.runscope.com/docs/api (10 months ago)
 - [mpostument/mpostument.github.io](https://github.com/mpostument/mpostument.github.io) -  (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.5](https://github.com/mpostument/grafana-sync/releases/tag/1.4.5), 2 weeks ago) - Keep your Grafana dashboards in sync
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.5](https://github.com/mpostument/grafana-sync/releases/tag/1.4.5), 3 weeks ago) - Keep your Grafana dashboards in sync
 
 #### 📜 My recent blog posts
 
