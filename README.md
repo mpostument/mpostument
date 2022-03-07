@@ -13,7 +13,7 @@
 #### 📜 My recent blog posts
 
 - [Using Postgres With Golang](https://mpostument.com/2022/02/20/connecting-to-postgres-with-golang/) (2 weeks ago)
-- [Sorted Squared Array](https://mpostument.com/2022/02/14/sorted-squared-array/) (2 weeks ago)
+- [Sorted Squared Array](https://mpostument.com/2022/02/14/sorted-squared-array/) (3 weeks ago)
 - [WaitGroup](https://mpostument.com/2022/02/02/wait-groups/) (1 month ago)
 - [Read and Write lock in Go](https://mpostument.com/2022/01/31/rwlock/) (1 month ago)
 - [Depth First Search](https://mpostument.com/2021/09/06/depth-first-search/) (6 months ago)
