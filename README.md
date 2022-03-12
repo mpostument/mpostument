@@ -12,7 +12,7 @@
 
 #### 📜 My recent blog posts
 
-- [AWS Synthetics With Terraform. Problems?](https://mpostument.com/2022/03/08/aws-synthetics-with-terraform/) (3 days ago)
+- [AWS Synthetics With Terraform. Problems?](https://mpostument.com/2022/03/08/aws-synthetics-with-terraform/) (4 days ago)
 - [Using Postgres With Golang](https://mpostument.com/2022/02/20/connecting-to-postgres-with-golang/) (2 weeks ago)
 - [Sorted Squared Array](https://mpostument.com/2022/02/14/sorted-squared-array/) (3 weeks ago)
 - [WaitGroup](https://mpostument.com/2022/02/02/wait-groups/) (1 month ago)
