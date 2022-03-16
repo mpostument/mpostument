@@ -11,11 +11,11 @@
 
 #### 📜 My recent blog posts
 
+- [Using Mongo With Go](https://mpostument.com/2022/03/15/using-mongo-with-go/) (1 day ago)
 - [AWS Synthetics With Terraform. Problems?](https://mpostument.com/2022/03/08/aws-synthetics-with-terraform/) (1 week ago)
 - [Using Postgres With Golang](https://mpostument.com/2022/02/20/connecting-to-postgres-with-golang/) (3 weeks ago)
 - [Sorted Squared Array](https://mpostument.com/2022/02/14/sorted-squared-array/) (1 month ago)
 - [WaitGroup](https://mpostument.com/2022/02/02/wait-groups/) (1 month ago)
-- [Read and Write lock in Go](https://mpostument.com/2022/01/31/rwlock/) (1 month ago)
 
 #### 📫 How to reach me
 
