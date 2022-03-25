@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 month ago)
-- [ewilde/go-runscope](https://github.com/ewilde/go-runscope) - go client library for the runscope  api https://www.runscope.com/docs/api (10 months ago)
+- [ewilde/go-runscope](https://github.com/ewilde/go-runscope) - go client library for the runscope  api https://www.runscope.com/docs/api (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
