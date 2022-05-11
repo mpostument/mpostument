@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (4 weeks ago)
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.6](https://github.com/mpostument/grafana-sync/releases/tag/1.4.6), 4 weeks ago) - Keep your Grafana dashboards in sync
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.6](https://github.com/mpostument/grafana-sync/releases/tag/1.4.6), 1 month ago) - Keep your Grafana dashboards in sync
 
 #### 📜 My recent blog posts
 
