@@ -20,7 +20,7 @@
 - [Using Mongo With Go](https://mpostument.com/2022/03/15/using-mongo-with-go/) (3 months ago)
 - [AWS Synthetics With Terraform. Problems?](https://mpostument.com/2022/03/08/aws-synthetics-with-terraform/) (3 months ago)
 - [Using Postgres With Golang](https://mpostument.com/2022/02/20/using-postgres-with-go/) (3 months ago)
-- [Sorted Squared Array](https://mpostument.com/2022/02/14/sorted-squared-array/) (3 months ago)
+- [Sorted Squared Array](https://mpostument.com/2022/02/14/sorted-squared-array/) (4 months ago)
 
 #### 📫 How to reach me
 
