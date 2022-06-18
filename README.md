@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (today)
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 day ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (3 weeks ago)
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (3 weeks ago)
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.8](https://github.com/mpostument/grafana-sync/releases/tag/1.4.8), today) - Keep your Grafana dashboards in sync
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.8](https://github.com/mpostument/grafana-sync/releases/tag/1.4.8), 1 day ago) - Keep your Grafana dashboards in sync
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) ([1.1.0](https://github.com/mpostument/ebs-autoresize/releases/tag/1.1.0), 1 year ago) - Automatically resize your ebs
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) ([1.0.2](https://github.com/mpostument/SteamWishlistScraper/releases/tag/1.0.2), 2 years ago) - 
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.17.1](https://github.com/mpostument/awstaghelper/releases/tag/0.17.1), 2 years ago) - AWS bulk tagging tool
