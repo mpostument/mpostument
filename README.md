@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/git-demo](https://github.com/mpostument/git-demo) -  (1 week ago)
+- [mpostument/git-demo](https://github.com/mpostument/git-demo) -  (2 weeks ago)
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (4 weeks ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (1 month ago)
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (1 month ago)
