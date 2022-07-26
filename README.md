@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/automation](https://github.com/mpostument/automation) -  (2 days ago)
+- [mpostument/automation](https://github.com/mpostument/automation) -  (3 days ago)
 - [mpostument/git-demo](https://github.com/mpostument/git-demo) -  (3 weeks ago)
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 month ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (2 months ago)
