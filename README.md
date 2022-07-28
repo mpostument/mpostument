@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/automation](https://github.com/mpostument/automation) -  (4 days ago)
+- [mpostument/automation](https://github.com/mpostument/automation) -  (5 days ago)
 - [mpostument/git-demo](https://github.com/mpostument/git-demo) -  (3 weeks ago)
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 month ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (2 months ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Manage terraform with tfenv](https://mpostument.com/2022/07/26/terraform-install/) (1 day ago)
+- [Manage terraform with tfenv](https://mpostument.com/2022/07/26/terraform-install/) (2 days ago)
 - [Docker Sdk Part One](https://mpostument.com/2022/03/22/docker-sdk-part-one/) (4 months ago)
 - [Using Mongo With Go](https://mpostument.com/2022/03/15/using-mongo-with-go/) (4 months ago)
 - [AWS Synthetics With Terraform. Problems?](https://mpostument.com/2022/03/08/aws-synthetics-with-terraform/) (4 months ago)
