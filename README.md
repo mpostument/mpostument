@@ -16,8 +16,8 @@
 
 #### 📜 My recent blog posts
 
-- [Terraform State](https://mpostument.com/2022/07/31/terraform-state/) (2 days ago)
-- [Terraform Basics](https://mpostument.com/2022/07/28/terraform-basics/) (5 days ago)
+- [Terraform State](https://mpostument.com/2022/07/31/terraform-state/) (3 days ago)
+- [Terraform Basics](https://mpostument.com/2022/07/28/terraform-basics/) (6 days ago)
 - [Manage terraform with tfenv](https://mpostument.com/2022/07/26/terraform-install/) (1 week ago)
 - [Docker Sdk Part One](https://mpostument.com/2022/03/22/docker-sdk-part-one/) (4 months ago)
 - [Using Mongo With Go](https://mpostument.com/2022/03/15/using-mongo-with-go/) (4 months ago)
