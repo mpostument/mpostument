@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Terraform Template](https://mpostument.com/2022/08/11/terraform-template/) (5 days ago)
+- [Terraform Template](https://mpostument.com/2022/08/11/terraform-template/) (6 days ago)
 - [Terraform State](https://mpostument.com/2022/07/31/terraform-state/) (2 weeks ago)
 - [Terraform Basics](https://mpostument.com/2022/07/28/terraform-basics/) (2 weeks ago)
 - [Manage terraform with tfenv](https://mpostument.com/2022/07/26/terraform-install/) (3 weeks ago)
