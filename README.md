@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (2 months ago)
-- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (2 months ago)
-- [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (2 months ago)
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (2 months ago)
+- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (3 months ago)
+- [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (3 months ago)
+- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -17,7 +17,7 @@
 #### 📜 My recent blog posts
 
 - [Terraform Template](https://mpostument.com/2022/08/11/terraform-template/) (1 week ago)
-- [Terraform State](https://mpostument.com/2022/07/31/terraform-state/) (2 weeks ago)
+- [Terraform State](https://mpostument.com/2022/07/31/terraform-state/) (3 weeks ago)
 - [Terraform Basics](https://mpostument.com/2022/07/28/terraform-basics/) (3 weeks ago)
 - [Manage terraform with tfenv](https://mpostument.com/2022/07/26/terraform-install/) (3 weeks ago)
 - [Docker Sdk Part One](https://mpostument.com/2022/03/22/docker-sdk-part-one/) (5 months ago)
