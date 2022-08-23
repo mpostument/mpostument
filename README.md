@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
+- [Terraform Dynamic](https://mpostument.com/2022/08/21/terraform-dynamic/) (2 days ago)
 - [Terraform Template](https://mpostument.com/2022/08/11/terraform-template/) (1 week ago)
 - [Terraform State](https://mpostument.com/2022/07/31/terraform-state/) (3 weeks ago)
 - [Terraform Basics](https://mpostument.com/2022/07/28/terraform-basics/) (3 weeks ago)
 - [Manage terraform with tfenv](https://mpostument.com/2022/07/26/terraform-install/) (4 weeks ago)
-- [Docker Sdk Part One](https://mpostument.com/2022/03/22/docker-sdk-part-one/) (5 months ago)
 
 #### 📫 How to reach me
 
