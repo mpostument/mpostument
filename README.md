@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Terraform Dynamic](https://mpostument.com/2022/08/21/terraform-dynamic/) (2 days ago)
+- [Terraform Dynamic](https://mpostument.com/2022/08/21/terraform-dynamic/) (3 days ago)
 - [Terraform Template](https://mpostument.com/2022/08/11/terraform-template/) (1 week ago)
 - [Terraform State](https://mpostument.com/2022/07/31/terraform-state/) (3 weeks ago)
 - [Terraform Basics](https://mpostument.com/2022/07/28/terraform-basics/) (3 weeks ago)
