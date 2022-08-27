@@ -16,10 +16,10 @@
 
 #### 📜 My recent blog posts
 
-- [Terraform Dynamic](https://mpostument.com/2022/08/21/terraform-dynamic/) (5 days ago)
+- [Terraform Dynamic](https://mpostument.com/2022/08/21/terraform-dynamic/) (6 days ago)
 - [Terraform Template](https://mpostument.com/2022/08/11/terraform-template/) (2 weeks ago)
 - [Terraform State](https://mpostument.com/2022/07/31/terraform-state/) (3 weeks ago)
-- [Terraform Basics](https://mpostument.com/2022/07/28/terraform-basics/) (4 weeks ago)
+- [Terraform Basics](https://mpostument.com/2022/07/28/terraform-basics/) (1 month ago)
 - [Manage terraform with tfenv](https://mpostument.com/2022/07/26/terraform-install/) (1 month ago)
 
 #### 📫 How to reach me
