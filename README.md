@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
+- [Terraform Condition and Lookup](https://mpostument.com/2022/09/11/terraform-condition-and-lookup/) (today)
 - [Terraform Variables](https://mpostument.com/2022/09/09/terraform-variables/) (2 days ago)
 - [Terraform Lifecycle and Outputs](https://mpostument.com/2022/08/28/terraform-lifecycle/) (2 weeks ago)
 - [Terraform Dynamic](https://mpostument.com/2022/08/21/terraform-dynamic/) (3 weeks ago)
 - [Terraform Template](https://mpostument.com/2022/08/11/terraform-template/) (1 month ago)
-- [Terraform State](https://mpostument.com/2022/07/31/terraform-state/) (1 month ago)
 
 #### 📫 How to reach me
 
