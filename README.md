@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
+- [Manager Ansible Versions With pyenv](https://mpostument.com/2022/09/19/manager-ansible-versions-with-tfenv/) (today)
 - [Terraform Modules and Import](https://mpostument.com/2022/09/14/terraform-modules-and-import/) (5 days ago)
 - [Terraform Condition and Lookup](https://mpostument.com/2022/09/11/terraform-condition-and-lookup/) (1 week ago)
 - [Terraform Variables](https://mpostument.com/2022/09/09/terraform-variables/) (1 week ago)
 - [Terraform Lifecycle and Outputs](https://mpostument.com/2022/08/28/terraform-lifecycle/) (3 weeks ago)
-- [Terraform Dynamic](https://mpostument.com/2022/08/21/terraform-dynamic/) (4 weeks ago)
 
 #### 📫 How to reach me
 
