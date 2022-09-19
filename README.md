@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Terraform Modules and Import](https://mpostument.com/2022/09/14/terraform-modules-and-import/) (4 days ago)
+- [Terraform Modules and Import](https://mpostument.com/2022/09/14/terraform-modules-and-import/) (5 days ago)
 - [Terraform Condition and Lookup](https://mpostument.com/2022/09/11/terraform-condition-and-lookup/) (1 week ago)
 - [Terraform Variables](https://mpostument.com/2022/09/09/terraform-variables/) (1 week ago)
 - [Terraform Lifecycle and Outputs](https://mpostument.com/2022/08/28/terraform-lifecycle/) (3 weeks ago)
