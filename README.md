@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 week ago)
-- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (3 months ago)
-- [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (3 months ago)
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (3 months ago)
+- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (4 months ago)
+- [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (4 months ago)
+- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -16,8 +16,8 @@
 
 #### 📜 My recent blog posts
 
-- [Manager Ansible Versions With pyenv](https://mpostument.com/2022/09/19/manager-ansible-versions-with-tfenv/) (today)
-- [Terraform Modules and Import](https://mpostument.com/2022/09/14/terraform-modules-and-import/) (5 days ago)
+- [Manager Ansible Versions With pyenv](https://mpostument.com/2022/09/19/manager-ansible-versions-with-tfenv/) (1 day ago)
+- [Terraform Modules and Import](https://mpostument.com/2022/09/14/terraform-modules-and-import/) (6 days ago)
 - [Terraform Condition and Lookup](https://mpostument.com/2022/09/11/terraform-condition-and-lookup/) (1 week ago)
 - [Terraform Variables](https://mpostument.com/2022/09/09/terraform-variables/) (1 week ago)
 - [Terraform Lifecycle and Outputs](https://mpostument.com/2022/08/28/terraform-lifecycle/) (3 weeks ago)
