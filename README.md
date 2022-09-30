@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Ansible Inventory](https://mpostument.com/2022/09/27/ansible-inventory/) (2 days ago)
+- [Ansible Inventory](https://mpostument.com/2022/09/27/ansible-inventory/) (3 days ago)
 - [AWS 101: EC2 Part 1](https://mpostument.com/2022/09/22/aws-101-ec2-part-1/) (1 week ago)
 - [Manage Ansible Versions With pyenv](https://mpostument.com/2022/09/19/manage-ansible-versions-with-pyenv/) (1 week ago)
 - [Terraform Modules and Import](https://mpostument.com/2022/09/14/terraform-modules-and-import/) (2 weeks ago)
