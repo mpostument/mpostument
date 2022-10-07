@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
+- [Ansible Playbook](https://mpostument.com/2022/10/04/ansible-playbook/) (3 days ago)
 - [Ansible Inventory](https://mpostument.com/2022/09/27/ansible-inventory/) (1 week ago)
 - [AWS 101: EC2 Part 1](https://mpostument.com/2022/09/22/aws-101-ec2-part-1/) (2 weeks ago)
 - [Manage Ansible Versions With pyenv](https://mpostument.com/2022/09/19/manage-ansible-versions-with-pyenv/) (2 weeks ago)
 - [Terraform Modules and Import](https://mpostument.com/2022/09/14/terraform-modules-and-import/) (3 weeks ago)
-- [Terraform Condition and Lookup](https://mpostument.com/2022/09/11/terraform-condition-and-lookup/) (3 weeks ago)
 
 #### 📫 How to reach me
 
