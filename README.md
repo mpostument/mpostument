@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
-- [Ansible Role](https://mpostument.com/2022/10/15/ansible-role/) (1 day ago)
+- [Ansible Role](https://mpostument.com/2022/10/15/ansible-role/) (2 days ago)
 - [Ansible Playbook](https://mpostument.com/2022/10/04/ansible-playbook/) (1 week ago)
 - [Ansible Inventory](https://mpostument.com/2022/09/27/ansible-inventory/) (2 weeks ago)
 - [AWS 101: EC2 Part 1](https://mpostument.com/2022/09/22/aws-101-ec2-part-1/) (3 weeks ago)
-- [Manage Ansible Versions With pyenv](https://mpostument.com/2022/09/19/manage-ansible-versions-with-pyenv/) (3 weeks ago)
+- [Manage Ansible Versions With pyenv](https://mpostument.com/2022/09/19/manage-ansible-versions-with-pyenv/) (4 weeks ago)
 
 #### 📫 How to reach me
 
