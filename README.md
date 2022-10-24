@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Ansible Vault](https://mpostument.com/2022/10/19/ansible-vault/) (4 days ago)
+- [Ansible Vault](https://mpostument.com/2022/10/19/ansible-vault/) (5 days ago)
 - [Ansible Role](https://mpostument.com/2022/10/15/ansible-role/) (1 week ago)
 - [Ansible Playbook](https://mpostument.com/2022/10/04/ansible-playbook/) (2 weeks ago)
 - [Ansible Inventory](https://mpostument.com/2022/09/27/ansible-inventory/) (3 weeks ago)
