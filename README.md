@@ -19,7 +19,7 @@
 - [Ansible Vault](https://mpostument.com/2022/10/19/ansible-vault/) (1 week ago)
 - [Ansible Role](https://mpostument.com/2022/10/15/ansible-role/) (1 week ago)
 - [Ansible Playbook](https://mpostument.com/2022/10/04/ansible-playbook/) (3 weeks ago)
-- [Ansible Inventory](https://mpostument.com/2022/09/27/ansible-inventory/) (4 weeks ago)
+- [Ansible Inventory](https://mpostument.com/2022/09/27/ansible-inventory/) (1 month ago)
 - [AWS 101: EC2 Part 1](https://mpostument.com/2022/09/22/aws-101-ec2-part-1/) (1 month ago)
 
 #### 📫 How to reach me
