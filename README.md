@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 month ago)
-- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (5 months ago)
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (5 months ago)
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (5 months ago)
+- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -17,7 +17,7 @@
 #### 📜 My recent blog posts
 
 - [Ansible Vault](https://mpostument.com/2022/10/19/ansible-vault/) (1 week ago)
-- [Ansible Role](https://mpostument.com/2022/10/15/ansible-role/) (1 week ago)
+- [Ansible Role](https://mpostument.com/2022/10/15/ansible-role/) (2 weeks ago)
 - [Ansible Playbook](https://mpostument.com/2022/10/04/ansible-playbook/) (3 weeks ago)
 - [Ansible Inventory](https://mpostument.com/2022/09/27/ansible-inventory/) (1 month ago)
 - [AWS 101: EC2 Part 1](https://mpostument.com/2022/09/22/aws-101-ec2-part-1/) (1 month ago)
