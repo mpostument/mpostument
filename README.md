@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/content-mpostument](https://github.com/mpostument/content-mpostument) -  (1 day ago)
+- [mpostument/content-mpostument](https://github.com/mpostument/content-mpostument) -  (2 days ago)
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 month ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (5 months ago)
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (5 months ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Golang - Setting Up Development Environment](https://mpostument.com/2022/10/28/setup-go/) (2 days ago)
+- [Golang - Setting Up Development Environment](https://mpostument.com/2022/10/28/setup-go/) (3 days ago)
 - [Ansible Vault](https://mpostument.com/2022/10/19/ansible-vault/) (1 week ago)
 - [Ansible Role](https://mpostument.com/2022/10/15/ansible-role/) (2 weeks ago)
 - [Ansible Playbook](https://mpostument.com/2022/10/04/ansible-playbook/) (3 weeks ago)
