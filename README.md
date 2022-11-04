@@ -16,9 +16,9 @@
 
 #### 📜 My recent blog posts
 
-- [Go Variables](https://mpostument.com/2022/11/02/go-variables/) (1 day ago)
-- [Game Maker - Variables](https://mpostument.com/2022/10/30/variables/) (4 days ago)
-- [Golang - Setting Up Development Environment](https://mpostument.com/2022/10/28/setup-go/) (6 days ago)
+- [Go Variables](https://mpostument.com/2022/11/02/go-variables/) (2 days ago)
+- [Game Maker - Variables](https://mpostument.com/2022/10/30/variables/) (5 days ago)
+- [Golang - Setting Up Development Environment](https://mpostument.com/2022/10/28/setup-go/) (1 week ago)
 - [Ansible Vault](https://mpostument.com/2022/10/19/ansible-vault/) (2 weeks ago)
 - [Ansible Role](https://mpostument.com/2022/10/15/ansible-role/) (2 weeks ago)
 
