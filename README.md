@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
+- [Game Maker - Conditions](https://mpostument.com/2022/11/06/conditions/) (today)
 - [Game Maker - Coordinates](https://mpostument.com/2022/11/04/coordinates/) (2 days ago)
 - [Go Variables](https://mpostument.com/2022/11/02/go-variables/) (4 days ago)
 - [Game Maker - Variables](https://mpostument.com/2022/10/30/variables/) (1 week ago)
 - [Golang - Setting Up Development Environment](https://mpostument.com/2022/10/28/setup-go/) (1 week ago)
-- [Ansible Vault](https://mpostument.com/2022/10/19/ansible-vault/) (2 weeks ago)
 
 #### 📫 How to reach me
 
