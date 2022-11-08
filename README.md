@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
+- [Basic Types in Go](https://mpostument.com/2022/11/08/go-basic-types/) (today)
 - [Game Maker - Conditions](https://mpostument.com/2022/11/06/conditions/) (2 days ago)
 - [Game Maker - Coordinates](https://mpostument.com/2022/11/04/coordinates/) (4 days ago)
 - [Go Variables](https://mpostument.com/2022/11/02/go-variables/) (6 days ago)
 - [Game Maker - Variables](https://mpostument.com/2022/10/30/variables/) (1 week ago)
-- [Golang - Setting Up Development Environment](https://mpostument.com/2022/10/28/setup-go/) (1 week ago)
 
 #### 📫 How to reach me
 
