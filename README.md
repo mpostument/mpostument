@@ -16,10 +16,10 @@
 
 #### 📜 My recent blog posts
 
-- [Go Constants](https://mpostument.com/2022/11/12/go-constant/) (today)
-- [Game Maker - Arrays and For Loop](https://mpostument.com/2022/11/09/arrays/) (3 days ago)
-- [Basic Types in Go](https://mpostument.com/2022/11/08/go-basic-types/) (4 days ago)
-- [Game Maker - Conditions](https://mpostument.com/2022/11/06/conditions/) (6 days ago)
+- [Go Constants](https://mpostument.com/2022/11/12/go-constant/) (1 day ago)
+- [Game Maker - Arrays and For Loop](https://mpostument.com/2022/11/09/arrays/) (4 days ago)
+- [Basic Types in Go](https://mpostument.com/2022/11/08/go-basic-types/) (5 days ago)
+- [Game Maker - Conditions](https://mpostument.com/2022/11/06/conditions/) (1 week ago)
 - [Game Maker - Coordinates](https://mpostument.com/2022/11/04/coordinates/) (1 week ago)
 
 #### 📫 How to reach me
