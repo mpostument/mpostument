@@ -16,9 +16,9 @@
 
 #### 📜 My recent blog posts
 
-- [Game Maker - Loops](https://mpostument.com/2022/11/13/loops/) (2 days ago)
-- [Go Constants](https://mpostument.com/2022/11/12/go-constant/) (3 days ago)
-- [Game Maker - Arrays and For Loop](https://mpostument.com/2022/11/09/arrays/) (6 days ago)
+- [Game Maker - Loops](https://mpostument.com/2022/11/13/loops/) (3 days ago)
+- [Go Constants](https://mpostument.com/2022/11/12/go-constant/) (4 days ago)
+- [Game Maker - Arrays and For Loop](https://mpostument.com/2022/11/09/arrays/) (1 week ago)
 - [Basic Types in Go](https://mpostument.com/2022/11/08/go-basic-types/) (1 week ago)
 - [Game Maker - Conditions](https://mpostument.com/2022/11/06/conditions/) (1 week ago)
 
