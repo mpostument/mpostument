@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (2 months ago)
-- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (5 months ago)
-- [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (5 months ago)
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (5 months ago)
+- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (6 months ago)
+- [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (6 months ago)
+- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -16,9 +16,9 @@
 
 #### 📜 My recent blog posts
 
-- [Game Maker - Path](https://mpostument.com/2022/11/16/path/) (2 days ago)
-- [Game Maker - Loops](https://mpostument.com/2022/11/13/loops/) (5 days ago)
-- [Go Constants](https://mpostument.com/2022/11/12/go-constant/) (6 days ago)
+- [Game Maker - Path](https://mpostument.com/2022/11/16/path/) (3 days ago)
+- [Game Maker - Loops](https://mpostument.com/2022/11/13/loops/) (6 days ago)
+- [Go Constants](https://mpostument.com/2022/11/12/go-constant/) (1 week ago)
 - [Game Maker - Arrays and For Loop](https://mpostument.com/2022/11/09/arrays/) (1 week ago)
 - [Basic Types in Go](https://mpostument.com/2022/11/08/go-basic-types/) (1 week ago)
 
