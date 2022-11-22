@@ -16,8 +16,8 @@
 
 #### 📜 My recent blog posts
 
-- [Game Maker - Timelines](https://mpostument.com/2022/11/19/timeline/) (2 days ago)
-- [Game Maker - Path](https://mpostument.com/2022/11/16/path/) (5 days ago)
+- [Game Maker - Timelines](https://mpostument.com/2022/11/19/timeline/) (3 days ago)
+- [Game Maker - Path](https://mpostument.com/2022/11/16/path/) (6 days ago)
 - [Game Maker - Loops](https://mpostument.com/2022/11/13/loops/) (1 week ago)
 - [Go Constants](https://mpostument.com/2022/11/12/go-constant/) (1 week ago)
 - [Game Maker - Arrays and For Loop](https://mpostument.com/2022/11/09/arrays/) (1 week ago)
