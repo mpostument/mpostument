@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Arrays and Slices in golang](https://mpostument.com/2022/11/23/go-arrays-slices/) (5 days ago)
+- [Arrays and Slices in golang](https://mpostument.com/2022/11/23/go-arrays-slices/) (6 days ago)
 - [Game Maker - Timelines](https://mpostument.com/2022/11/19/timeline/) (1 week ago)
 - [Game Maker - Path](https://mpostument.com/2022/11/16/path/) (1 week ago)
 - [Game Maker - Loops](https://mpostument.com/2022/11/13/loops/) (2 weeks ago)
