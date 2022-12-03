@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
+- [Maps and Structs in golang](https://mpostument.com/2022/12/03/go-maps-structs/) (today)
 - [Arrays and Slices in golang](https://mpostument.com/2022/11/23/go-arrays-slices/) (1 week ago)
 - [Game Maker - Timelines](https://mpostument.com/2022/11/19/timeline/) (2 weeks ago)
 - [Game Maker - Path](https://mpostument.com/2022/11/16/path/) (2 weeks ago)
 - [Game Maker - Loops](https://mpostument.com/2022/11/13/loops/) (2 weeks ago)
-- [Go Constants](https://mpostument.com/2022/11/12/go-constant/) (3 weeks ago)
 
 #### 📫 How to reach me
 
