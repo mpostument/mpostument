@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Maps and Structs in golang](https://mpostument.com/2022/12/03/go-maps-structs/) (1 day ago)
+- [Maps and Structs in golang](https://mpostument.com/2022/12/03/go-maps-structs/) (2 days ago)
 - [Arrays and Slices in golang](https://mpostument.com/2022/11/23/go-arrays-slices/) (1 week ago)
 - [Game Maker - Timelines](https://mpostument.com/2022/11/19/timeline/) (2 weeks ago)
 - [Game Maker - Path](https://mpostument.com/2022/11/16/path/) (2 weeks ago)
