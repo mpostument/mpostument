@@ -17,9 +17,9 @@
 #### 📜 My recent blog posts
 
 - [If and Switch in golang](https://mpostument.com/2022/12/09/go-if-switch/) (1 week ago)
-- [Maps and Structs in golang](https://mpostument.com/2022/12/03/go-maps-structs/) (1 week ago)
+- [Maps and Structs in golang](https://mpostument.com/2022/12/03/go-maps-structs/) (2 weeks ago)
 - [Arrays and Slices in golang](https://mpostument.com/2022/11/23/go-arrays-slices/) (3 weeks ago)
-- [Game Maker - Timelines](https://mpostument.com/2022/11/19/timeline/) (3 weeks ago)
+- [Game Maker - Timelines](https://mpostument.com/2022/11/19/timeline/) (4 weeks ago)
 - [Game Maker - Path](https://mpostument.com/2022/11/16/path/) (1 month ago)
 
 #### 📫 How to reach me
