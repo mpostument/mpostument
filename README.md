@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Loops in golang](https://mpostument.com/2022/12/17/go-loops/) (2 days ago)
+- [Loops in golang](https://mpostument.com/2022/12/17/go-loops/) (3 days ago)
 - [If and Switch in golang](https://mpostument.com/2022/12/09/go-if-switch/) (1 week ago)
 - [Maps and Structs in golang](https://mpostument.com/2022/12/03/go-maps-structs/) (2 weeks ago)
 - [Arrays and Slices in golang](https://mpostument.com/2022/11/23/go-arrays-slices/) (3 weeks ago)
