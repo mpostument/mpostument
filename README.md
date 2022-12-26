@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (3 months ago)
+- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (7 months ago)
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (7 months ago)
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (7 months ago)
-- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Defer, Panic, and Recovery in Golang](https://mpostument.com/2022/12/22/go-defer-panic/) (3 days ago)
+- [Defer, Panic, and Recovery in Golang](https://mpostument.com/2022/12/22/go-defer-panic/) (4 days ago)
 - [Loops in golang](https://mpostument.com/2022/12/17/go-loops/) (1 week ago)
 - [If and Switch in golang](https://mpostument.com/2022/12/09/go-if-switch/) (2 weeks ago)
 - [Maps and Structs in golang](https://mpostument.com/2022/12/03/go-maps-structs/) (3 weeks ago)
