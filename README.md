@@ -18,7 +18,7 @@
 
 - [Defer, Panic, and Recovery in Golang](https://mpostument.com/2022/12/22/go-defer-panic/) (1 week ago)
 - [Loops in golang](https://mpostument.com/2022/12/17/go-loops/) (1 week ago)
-- [If and Switch in golang](https://mpostument.com/2022/12/09/go-if-switch/) (2 weeks ago)
+- [If and Switch in golang](https://mpostument.com/2022/12/09/go-if-switch/) (3 weeks ago)
 - [Maps and Structs in golang](https://mpostument.com/2022/12/03/go-maps-structs/) (3 weeks ago)
 - [Arrays and Slices in golang](https://mpostument.com/2022/11/23/go-arrays-slices/) (1 month ago)
 
