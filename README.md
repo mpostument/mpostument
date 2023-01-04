@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Pointers](https://mpostument.com/2022/12/30/go-pointers/) (4 days ago)
+- [Pointers](https://mpostument.com/2022/12/30/go-pointers/) (5 days ago)
 - [Defer, Panic, and Recovery in Golang](https://mpostument.com/2022/12/22/go-defer-panic/) (1 week ago)
 - [Loops in golang](https://mpostument.com/2022/12/17/go-loops/) (2 weeks ago)
 - [If and Switch in golang](https://mpostument.com/2022/12/09/go-if-switch/) (3 weeks ago)
