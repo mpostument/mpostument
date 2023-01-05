@@ -2,22 +2,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (3 months ago)
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (4 months ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (7 months ago)
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (7 months ago)
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.10](https://github.com/mpostument/grafana-sync/releases/tag/1.4.10), 3 months ago) - Keep your Grafana dashboards in sync
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.4.10](https://github.com/mpostument/grafana-sync/releases/tag/1.4.10), 4 months ago) - Keep your Grafana dashboards in sync
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) ([1.1.0](https://github.com/mpostument/ebs-autoresize/releases/tag/1.1.0), 2 years ago) - Automatically resize your ebs
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) ([1.0.2](https://github.com/mpostument/SteamWishlistScraper/releases/tag/1.0.2), 2 years ago) - 
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.17.1](https://github.com/mpostument/awstaghelper/releases/tag/0.17.1), 2 years ago) - AWS bulk tagging tool
 
 #### 📜 My recent blog posts
 
-- [Pointers](https://mpostument.com/2022/12/30/go-pointers/) (5 days ago)
-- [Defer, Panic, and Recovery in Golang](https://mpostument.com/2022/12/22/go-defer-panic/) (1 week ago)
+- [Pointers](https://mpostument.com/2022/12/30/go-pointers/) (6 days ago)
+- [Defer, Panic, and Recovery in Golang](https://mpostument.com/2022/12/22/go-defer-panic/) (2 weeks ago)
 - [Loops in golang](https://mpostument.com/2022/12/17/go-loops/) (2 weeks ago)
 - [If and Switch in golang](https://mpostument.com/2022/12/09/go-if-switch/) (3 weeks ago)
 - [Maps and Structs in golang](https://mpostument.com/2022/12/03/go-maps-structs/) (1 month ago)
