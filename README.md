@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Go Functions](https://mpostument.com/2023/01/06/go-functions/) (3 days ago)
+- [Go Functions](https://mpostument.com/2023/01/06/go-functions/) (4 days ago)
 - [Pointers](https://mpostument.com/2022/12/30/go-pointers/) (1 week ago)
 - [Defer, Panic, and Recovery in Golang](https://mpostument.com/2022/12/22/go-defer-panic/) (2 weeks ago)
 - [Loops in golang](https://mpostument.com/2022/12/17/go-loops/) (3 weeks ago)
