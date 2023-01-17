@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Interfaces in Go](https://mpostument.com/2023/01/15/go-interfaces/) (1 day ago)
+- [Interfaces in Go](https://mpostument.com/2023/01/15/go-interfaces/) (2 days ago)
 - [Go Functions](https://mpostument.com/2023/01/06/go-functions/) (1 week ago)
 - [Pointers](https://mpostument.com/2022/12/30/go-pointers/) (2 weeks ago)
 - [Defer, Panic, and Recovery in Golang](https://mpostument.com/2022/12/22/go-defer-panic/) (3 weeks ago)
