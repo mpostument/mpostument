@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (today)
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (5 days ago)
-- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (8 months ago)
-- [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (8 months ago)
+- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (1 day ago)
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (6 days ago)
+- [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (9 months ago)
+- [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.18.0](https://github.com/mpostument/awstaghelper/releases/tag/0.18.0), today) - AWS bulk tagging tool
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.5.0](https://github.com/mpostument/grafana-sync/releases/tag/1.5.0), 5 days ago) - Keep your Grafana dashboards in sync
+- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.18.0](https://github.com/mpostument/awstaghelper/releases/tag/0.18.0), 1 day ago) - AWS bulk tagging tool
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.5.0](https://github.com/mpostument/grafana-sync/releases/tag/1.5.0), 6 days ago) - Keep your Grafana dashboards in sync
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) ([1.1.0](https://github.com/mpostument/ebs-autoresize/releases/tag/1.1.0), 2 years ago) - Automatically resize your ebs
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) ([1.0.2](https://github.com/mpostument/SteamWishlistScraper/releases/tag/1.0.2), 2 years ago) - 
 
