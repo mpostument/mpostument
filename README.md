@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (3 weeks ago)
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (4 weeks ago)
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 month ago)
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (9 months ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (9 months ago)
 
@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Goroutines in go](https://mpostument.com/2023/02/20/go-routines/) (2 weeks ago)
+- [Goroutines in go](https://mpostument.com/2023/02/20/go-routines/) (3 weeks ago)
 - [Interfaces in Go](https://mpostument.com/2023/01/15/go-interfaces/) (1 month ago)
 - [Go Functions](https://mpostument.com/2023/01/06/go-functions/) (2 months ago)
 - [Pointers](https://mpostument.com/2022/12/30/go-pointers/) (2 months ago)
