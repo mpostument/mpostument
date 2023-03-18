@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (4 weeks ago)
+- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (1 month ago)
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 month ago)
 - [mpostument/SteamWishlistScraper](https://github.com/mpostument/SteamWishlistScraper) -  (9 months ago)
 - [mpostument/ebs-autoresize](https://github.com/mpostument/ebs-autoresize) - Automatically resize your ebs (9 months ago)
