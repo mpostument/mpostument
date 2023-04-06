@@ -18,7 +18,7 @@
 
 - [Goroutines in go](https://mpostument.com/2023/02/20/go-routines/) (1 month ago)
 - [Interfaces in Go](https://mpostument.com/2023/01/15/go-interfaces/) (2 months ago)
-- [Go Functions](https://mpostument.com/2023/01/06/go-functions/) (2 months ago)
+- [Go Functions](https://mpostument.com/2023/01/06/go-functions/) (3 months ago)
 - [Pointers](https://mpostument.com/2022/12/30/go-pointers/) (3 months ago)
 - [Defer, Panic, and Recovery in Golang](https://mpostument.com/2022/12/22/go-defer-panic/) (3 months ago)
 
