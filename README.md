@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
-- [Goroutines in go](https://mpostument.com/2023/02/20/go-routines/) (2 months ago)
-- [Interfaces in Go](https://mpostument.com/2023/01/15/go-interfaces/) (4 months ago)
-- [Go Functions](https://mpostument.com/2023/01/06/go-functions/) (4 months ago)
-- [Pointers](https://mpostument.com/2022/12/30/go-pointers/) (4 months ago)
-- [Defer, Panic, and Recovery in Golang](https://mpostument.com/2022/12/22/go-defer-panic/) (4 months ago)
+- [Week One: Gesture](https://mpostument.com/drawing/gesture/week_one_gesture/) (today)
+- [Goroutines in go](https://mpostument.com/programming/golang/basics/go-routines/) (2 months ago)
+- [Interfaces in Go](https://mpostument.com/programming/golang/basics/go-interfaces/) (4 months ago)
+- [Go Functions](https://mpostument.com/programming/golang/basics/go-functions/) (4 months ago)
+- [Pointers](https://mpostument.com/programming/golang/basics/go-pointers/) (4 months ago)
 
 #### 📫 How to reach me
 
