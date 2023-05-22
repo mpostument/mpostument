@@ -16,7 +16,7 @@
 
 #### 📜 My recent blog posts
 
-- [Week One: Gesture](https://mpostument.com/drawing/gesture/week_one_gesture/) (4 days ago)
+- [Week One: Gesture](https://mpostument.com/drawing/gesture/week_one_gesture/) (5 days ago)
 - [Goroutines in go](https://mpostument.com/programming/golang/basics/go-routines/) (3 months ago)
 - [Interfaces in Go](https://mpostument.com/programming/golang/basics/go-interfaces/) (4 months ago)
 - [Go Functions](https://mpostument.com/programming/golang/basics/go-functions/) (4 months ago)
