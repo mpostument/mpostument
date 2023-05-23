@@ -16,11 +16,11 @@
 
 #### 📜 My recent blog posts
 
+- [Week Two: Bean](https://mpostument.com/drawing/figure_drawing/week_two_bean/) (today)
 - [Week One: Gesture](https://mpostument.com/drawing/figure_drawing/week_one_gesture/) (6 days ago)
 - [Goroutines in go](https://mpostument.com/programming/golang/basics/go-routines/) (3 months ago)
 - [Interfaces in Go](https://mpostument.com/programming/golang/basics/go-interfaces/) (4 months ago)
 - [Go Functions](https://mpostument.com/programming/golang/basics/go-functions/) (4 months ago)
-- [Pointers](https://mpostument.com/programming/golang/basics/go-pointers/) (4 months ago)
 
 #### 📫 How to reach me
 
