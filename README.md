@@ -14,7 +14,7 @@
 
 #### 📜 My recent blog posts
 
-- [Week Two: Bean](https://mpostument.com/drawing/figure_drawing/week_two_bean/) (4 days ago)
+- [Week Two: Bean](https://mpostument.com/drawing/figure_drawing/week_two_bean/) (5 days ago)
 - [Week One: Gesture](https://mpostument.com/drawing/figure_drawing/week_one_gesture/) (1 week ago)
 - [Goroutines in go](https://mpostument.com/programming/golang/basics/go-routines/) (3 months ago)
 - [Interfaces in Go](https://mpostument.com/programming/golang/basics/go-interfaces/) (4 months ago)
