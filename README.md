@@ -12,7 +12,7 @@
 
 #### 📜 My recent blog posts
 
-- [Week Three: Structure](https://mpostument.com/drawing/figure_drawing/week_three_structure/) (6 days ago)
+- [Week Three: Structure](https://mpostument.com/drawing/figure_drawing/week_three_structure/) (1 week ago)
 - [Week Two: Bean](https://mpostument.com/drawing/figure_drawing/week_two_bean/) (1 week ago)
 - [Week One: Gesture](https://mpostument.com/drawing/figure_drawing/week_one_gesture/) (2 weeks ago)
 - [Goroutines in go](https://mpostument.com/programming/golang/basics/go-routines/) (3 months ago)
