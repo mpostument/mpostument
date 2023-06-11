@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (3 months ago)
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (3 months ago)
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -12,7 +12,7 @@
 
 #### 📜 My recent blog posts
 
-- [Week Four: Landmarks](https://mpostument.com/drawing/figure_drawing/week_four_landmark/) (5 days ago)
+- [Week Four: Landmarks](https://mpostument.com/drawing/figure_drawing/week_four_landmark/) (6 days ago)
 - [Week Three: Structure](https://mpostument.com/drawing/figure_drawing/week_three_structure/) (1 week ago)
 - [Week Two: Bean](https://mpostument.com/drawing/figure_drawing/week_two_bean/) (2 weeks ago)
 - [Week One: Gesture](https://mpostument.com/drawing/figure_drawing/week_one_gesture/) (3 weeks ago)
