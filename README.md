@@ -12,8 +12,8 @@
 
 #### 📜 My recent blog posts
 
-- [Week Four: Landmarks](https://mpostument.com/drawing/figure_drawing/week_four_landmark/) (6 days ago)
-- [Week Three: Structure](https://mpostument.com/drawing/figure_drawing/week_three_structure/) (1 week ago)
+- [Week Four: Landmarks](https://mpostument.com/drawing/figure_drawing/week_four_landmark/) (1 week ago)
+- [Week Three: Structure](https://mpostument.com/drawing/figure_drawing/week_three_structure/) (2 weeks ago)
 - [Week Two: Bean](https://mpostument.com/drawing/figure_drawing/week_two_bean/) (2 weeks ago)
 - [Week One: Gesture](https://mpostument.com/drawing/figure_drawing/week_one_gesture/) (3 weeks ago)
 - [Goroutines in go](https://mpostument.com/programming/golang/basics/go-routines/) (3 months ago)
