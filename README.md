@@ -12,11 +12,11 @@
 
 #### 📜 My recent blog posts
 
+- [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (1 day ago)
 - [Week Four: Landmarks](https://mpostument.com/posts/drawing/figure_drawing/week_four_landmark/) (1 week ago)
 - [Week Three: Structure](https://mpostument.com/posts/drawing/figure_drawing/week_three_structure/) (2 weeks ago)
 - [Week Two: Bean](https://mpostument.com/posts/drawing/figure_drawing/week_two_bean/) (2 weeks ago)
 - [Week One: Gesture](https://mpostument.com/posts/drawing/figure_drawing/week_one_gesture/) (3 weeks ago)
-- [Goroutines in go](https://mpostument.com/posts/programming/golang/basics/go-routines/) (3 months ago)
 
 #### 📫 How to reach me
 
