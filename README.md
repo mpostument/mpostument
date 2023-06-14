@@ -12,11 +12,11 @@
 
 #### 📜 My recent blog posts
 
-- [Drawing Journey: Week One - Unleashing Creativity and Mastering the Basics](https://mpostument.com/posts/drawing/drawing_basics/week_one/) (1 day ago)
+- [Drawing Journey: Week Five - Unleashing Creativity and Mastering the Basics](https://mpostument.com/posts/drawing/drawing_journey/week_five_basics/) (1 day ago)
 - [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (3 days ago)
-- [Conquering Challenges and Exploring New Horizons: Week Four Unveiled!](https://mpostument.com/posts/drawing/figure_drawing/week_four_landmark/) (1 week ago)
-- [Unleashing Artistic Mastery: Week Three - Drawing Boxes, Cylinders, and Animal Magic!](https://mpostument.com/posts/drawing/figure_drawing/week_three_structure/) (2 weeks ago)
-- [Unleashing Artistic Potential: Week Two - Mastering the Bean in Figure Drawing](https://mpostument.com/posts/drawing/figure_drawing/week_two_bean/) (3 weeks ago)
+- [Drawing Journey: Week Four Conquering Challenges and Exploring New Horizons](https://mpostument.com/posts/drawing/drawing_journey/week_four_landmark/) (1 week ago)
+- [Drawing Journey: Week Three - Drawing Boxes, Cylinders, and Animal Magic!](https://mpostument.com/posts/drawing/drawing_journey/week_three_structure/) (2 weeks ago)
+- [Drawing Journey: Week Two - Mastering the Bean in Figure Drawing](https://mpostument.com/posts/drawing/drawing_journey/week_two_bean/) (3 weeks ago)
 
 #### 📫 How to reach me
 
