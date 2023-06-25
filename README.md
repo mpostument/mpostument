@@ -12,8 +12,8 @@
 
 #### 📜 My recent blog posts
 
-- [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (2 days ago)
-- [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (1 week ago)
+- [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (3 days ago)
+- [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (2 weeks ago)
 - [Goroutines in go](https://mpostument.com/posts/programming/golang/basics/go-routines/) (4 months ago)
 - [Interfaces in Go](https://mpostument.com/posts/programming/golang/basics/go-interfaces/) (5 months ago)
 - [Go Functions](https://mpostument.com/posts/programming/golang/basics/go-functions/) (5 months ago)
