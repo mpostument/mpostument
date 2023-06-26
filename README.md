@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mpostument/gophercises](https://github.com/mpostument/gophercises) -  (today)
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (4 months ago)
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (4 months ago)
 
