@@ -12,8 +12,8 @@
 
 #### 📜 My recent blog posts
 
-- [Journey into Artistry: Exploring New Master Academy&#39;s Drawing Foundations](https://mpostument.com/posts/drawing/nma/drawing_foundations_1/) (1 day ago)
-- [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (1 week ago)
+- [Journey into Artistry: Exploring New Master Academy&#39;s Drawing Foundations](https://mpostument.com/posts/drawing/nma/drawing_foundations_1/) (2 days ago)
+- [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (2 weeks ago)
 - [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (3 weeks ago)
 - [Goroutines in go](https://mpostument.com/posts/programming/golang/basics/go-routines/) (4 months ago)
 - [Interfaces in Go](https://mpostument.com/posts/programming/golang/basics/go-interfaces/) (5 months ago)
