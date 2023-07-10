@@ -12,7 +12,7 @@
 
 #### 📜 My recent blog posts
 
-- [Journey into Artistry: Exploring New Master Academy&#39;s Drawing Foundations](https://mpostument.com/posts/drawing/nma/drawing_foundations_1/) (5 days ago)
+- [Journey into Artistry: Exploring New Master Academy&#39;s Drawing Foundations](https://mpostument.com/posts/drawing/nma/drawing_foundations_1/) (6 days ago)
 - [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (2 weeks ago)
 - [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (4 weeks ago)
 - [Goroutines in go](https://mpostument.com/posts/programming/golang/basics/go-routines/) (4 months ago)
