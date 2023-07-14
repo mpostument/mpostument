@@ -12,7 +12,7 @@
 
 #### 📜 My recent blog posts
 
-- [Exploring the Art of Observation: Journey through the &#39;Fundamentals of Observational Drawing&#39;](https://mpostument.com/posts/drawing/nma/fundamentals_observational_drawing/) (2 days ago)
+- [Exploring the Art of Observation: Journey through the &#39;Fundamentals of Observational Drawing&#39;](https://mpostument.com/posts/drawing/nma/fundamentals_observational_drawing/) (3 days ago)
 - [Journey into Artistry: Exploring New Master Academy&#39;s Drawing Foundations](https://mpostument.com/posts/drawing/nma/drawing_foundations_1/) (1 week ago)
 - [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (3 weeks ago)
 - [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (1 month ago)
