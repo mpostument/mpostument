@@ -12,7 +12,7 @@
 
 #### 📜 My recent blog posts
 
-- [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (3 days ago)
+- [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (4 days ago)
 - [Exploring the Art of Observation: Journey through the &#39;Fundamentals of Observational Drawing&#39;](https://mpostument.com/posts/drawing/nma/fundamentals_observational_drawing/) (1 week ago)
 - [Journey into Artistry: Exploring New Master Academy&#39;s Drawing Foundations](https://mpostument.com/posts/drawing/nma/drawing_foundations_1/) (2 weeks ago)
 - [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (1 month ago)
