@@ -12,11 +12,11 @@
 
 #### 📜 My recent blog posts
 
-- [Cultivating Creativity: Unveiling My Odyssey Through Drawing Foundations 2](https://mpostument.com/posts/drawing/nma/drawing_foundations_2/) (1 month ago)
-- [Artistic Journey Unveiled: Exploring the Fundamentals of Drawing and Perspective](https://mpostument.com/posts/drawing/nma/fundamentals_of_drawing_and_perspective/) (1 month ago)
+- [New Master Academy: Drawing With Force](https://mpostument.com/posts/drawing/nma/drawing_with_force/) (1 day ago)
+- [New Master Academy: Drawing Foundations 2](https://mpostument.com/posts/drawing/nma/drawing_foundations_2/) (1 month ago)
+- [New Master Academy: Fundamentals of Drawing and Perspective](https://mpostument.com/posts/drawing/nma/fundamentals_of_drawing_and_perspective/) (1 month ago)
 - [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (2 months ago)
-- [Exploring the Art of Observation: Journey through the &#39;Fundamentals of Observational Drawing&#39;](https://mpostument.com/posts/drawing/nma/fundamentals_observational_drawing/) (2 months ago)
-- [Journey into Artistry: Exploring New Master Academy&#39;s Drawing Foundations](https://mpostument.com/posts/drawing/nma/drawing_foundations_1/) (2 months ago)
+- [New Master Academy: Fundamentals of Observational Drawing](https://mpostument.com/posts/drawing/nma/fundamentals_observational_drawing/) (2 months ago)
 
 #### 📫 How to reach me
 
