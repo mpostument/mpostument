@@ -14,7 +14,7 @@
 
 - [New Master Academy: Drawing With Force](https://mpostument.com/posts/drawing/nma/drawing_with_force/) (1 week ago)
 - [New Master Academy: Drawing Foundations 2](https://mpostument.com/posts/drawing/nma/drawing_foundations_2/) (1 month ago)
-- [New Master Academy: Fundamentals of Drawing and Perspective](https://mpostument.com/posts/drawing/nma/fundamentals_of_drawing_and_perspective/) (1 month ago)
+- [New Master Academy: Fundamentals of Drawing and Perspective](https://mpostument.com/posts/drawing/nma/fundamentals_of_drawing_and_perspective/) (2 months ago)
 - [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (2 months ago)
 - [New Master Academy: Fundamentals of Observational Drawing](https://mpostument.com/posts/drawing/nma/fundamentals_observational_drawing/) (2 months ago)
 
