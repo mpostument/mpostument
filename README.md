@@ -14,11 +14,11 @@
 
 #### 📜 My recent blog posts
 
-- [New Master Academy: Drawing With Force](https://mpostument.com/posts/drawing/nma/drawing_with_force/) (1 month ago)
-- [New Master Academy: Drawing Foundations 2](https://mpostument.com/posts/drawing/nma/drawing_foundations_2/) (2 months ago)
-- [New Master Academy: Fundamentals of Drawing and Perspective](https://mpostument.com/posts/drawing/nma/fundamentals_of_drawing_and_perspective/) (3 months ago)
 - [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (3 months ago)
-- [New Master Academy: Fundamentals of Observational Drawing](https://mpostument.com/posts/drawing/nma/fundamentals_observational_drawing/) (3 months ago)
+- [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (4 months ago)
+- [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (4 months ago)
+- [Goroutines in go](https://mpostument.com/posts/programming/golang/basics/go-routines/) (8 months ago)
+- [Interfaces in Go](https://mpostument.com/posts/programming/golang/basics/go-interfaces/) (9 months ago)
 
 #### 📫 How to reach me
 
