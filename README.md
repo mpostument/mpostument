@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v1.106.5](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v1.106.5), 4 days ago) - Kubecost helm chart
+- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v1.106.5](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v1.106.5), 5 days ago) - Kubecost helm chart
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.7.0](https://github.com/mpostument/grafana-sync/releases/tag/1.7.0), 7 months ago) - Keep your Grafana dashboards in sync
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.19.0](https://github.com/mpostument/awstaghelper/releases/tag/0.19.0), 9 months ago) - AWS bulk tagging tool
 
@@ -18,7 +18,7 @@
 - [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (5 months ago)
 - [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (6 months ago)
 - [Goroutines in go](https://mpostument.com/posts/programming/golang/basics/go-routines/) (9 months ago)
-- [Interfaces in Go](https://mpostument.com/posts/programming/golang/basics/go-interfaces/) (10 months ago)
+- [Interfaces in Go](https://mpostument.com/posts/programming/golang/basics/go-interfaces/) (11 months ago)
 
 #### 📫 How to reach me
 
