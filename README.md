@@ -4,7 +4,7 @@
 
 - [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) - Kubecost helm chart (2 months ago)
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (10 months ago)
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (10 months ago)
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -16,7 +16,7 @@
 
 - [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (5 months ago)
 - [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (6 months ago)
-- [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (6 months ago)
+- [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (7 months ago)
 - [Goroutines in go](https://mpostument.com/posts/programming/golang/basics/go-routines/) (10 months ago)
 - [Interfaces in Go](https://mpostument.com/posts/programming/golang/basics/go-interfaces/) (11 months ago)
 
