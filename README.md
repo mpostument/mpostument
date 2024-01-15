@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v1.106.7](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v1.106.7), 2 days ago) - Kubecost helm chart
+- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v1.106.7](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v1.106.7), 3 days ago) - Kubecost helm chart
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.7.0](https://github.com/mpostument/grafana-sync/releases/tag/1.7.0), 8 months ago) - Keep your Grafana dashboards in sync
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.19.0](https://github.com/mpostument/awstaghelper/releases/tag/0.19.0), 10 months ago) - AWS bulk tagging tool
+- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.19.0](https://github.com/mpostument/awstaghelper/releases/tag/0.19.0), 11 months ago) - AWS bulk tagging tool
 
 #### 📜 My recent blog posts
 
