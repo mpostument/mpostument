@@ -4,11 +4,11 @@
 
 - [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) - Kubecost helm chart (3 months ago)
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (11 months ago)
-- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (11 months ago)
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v2.0.2](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v2.0.2), 3 days ago) - Kubecost helm chart
+- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v2.0.2](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v2.0.2), 4 days ago) - Kubecost helm chart
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) ([1.7.0](https://github.com/mpostument/grafana-sync/releases/tag/1.7.0), 9 months ago) - Keep your Grafana dashboards in sync
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.19.0](https://github.com/mpostument/awstaghelper/releases/tag/0.19.0), 11 months ago) - AWS bulk tagging tool
 
@@ -16,7 +16,7 @@
 
 - [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (6 months ago)
 - [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (7 months ago)
-- [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (7 months ago)
+- [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (8 months ago)
 - [Goroutines in go](https://mpostument.com/posts/programming/golang/basics/go-routines/) (11 months ago)
 - [Interfaces in Go](https://mpostument.com/posts/programming/golang/basics/go-interfaces/) (1 year ago)
 
