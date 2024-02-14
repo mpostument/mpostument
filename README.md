@@ -8,7 +8,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v2.0.2](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v2.0.2), 1 week ago) - Kubecost helm chart
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.19.0](https://github.com/mpostument/awstaghelper/releases/tag/0.19.0), 11 months ago) - AWS bulk tagging tool
+- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) ([0.19.0](https://github.com/mpostument/awstaghelper/releases/tag/0.19.0), 1 year ago) - AWS bulk tagging tool
 
 #### 📜 My recent blog posts
 
