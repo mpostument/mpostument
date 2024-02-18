@@ -3,7 +3,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) - Kubecost helm chart (3 months ago)
-- [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
