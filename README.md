@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) - Kubecost helm chart (3 months ago)
+- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) - Kubecost helm chart (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
