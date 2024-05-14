@@ -7,8 +7,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) ([1.37.0-helm](https://github.com/opencost/opencost-helm-chart/releases/tag/1.37.0-helm), 2 days ago) - OpenCost Helm chart 
-- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v2.1.2](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v2.1.2), 3 days ago) - Kubecost helm chart
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) ([1.37.0-helm](https://github.com/opencost/opencost-helm-chart/releases/tag/1.37.0-helm), 3 days ago) - OpenCost Helm chart 
+- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v2.1.2](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v2.1.2), 4 days ago) - Kubecost helm chart
 
 #### 📜 My recent blog posts
 
