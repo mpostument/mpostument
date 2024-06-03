@@ -12,8 +12,8 @@
 
 #### 📜 My recent blog posts
 
-- [Godot 2D Basics: Movement, Animation and Collision](https://mpostument.com/posts/programming/godot/godot_movement_collision/) (today)
-- [Godot Intro](https://mpostument.com/posts/programming/godot/godot_intro/) (today)
+- [Godot 2D Basics: Movement, Animation and Collision](https://mpostument.com/posts/programming/godot/godot_movement_collision/) (1 day ago)
+- [Godot Intro](https://mpostument.com/posts/programming/godot/godot_intro/) (1 day ago)
 - [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (10 months ago)
 - [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (11 months ago)
 - [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (11 months ago)
