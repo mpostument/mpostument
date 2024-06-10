@@ -12,11 +12,11 @@
 
 #### 📜 My recent blog posts
 
+- [Godot 2D Basics: Underwater Shooter](https://mpostument.com/posts/programming/godot/godot_underwater_shooter/) (1 day ago)
 - [Godot 2D Basics: Movement, Animation and Collision](https://mpostument.com/posts/programming/godot/godot_movement_collision/) (1 week ago)
 - [Godot Intro](https://mpostument.com/posts/programming/godot/godot_intro/) (1 week ago)
 - [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (10 months ago)
 - [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (11 months ago)
-- [Integrating StatsD Metrics with Prometheus Using OpenTelemetry](https://mpostument.com/posts/programming/observability/otel-statsd/) (1 year ago)
 
 #### 📫 How to reach me
 
