@@ -7,16 +7,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v2.3.0-rc.5](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v2.3.0-rc.5), today) - Kubecost helm chart
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) ([1.39.0-helm](https://github.com/opencost/opencost-helm-chart/releases/tag/1.39.0-helm), 1 day ago) - OpenCost Helm chart 
+- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v2.3.0-rc.5](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v2.3.0-rc.5), 1 day ago) - Kubecost helm chart
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) ([1.39.0-helm](https://github.com/opencost/opencost-helm-chart/releases/tag/1.39.0-helm), 2 days ago) - OpenCost Helm chart 
 
 #### 📜 My recent blog posts
 
-- [Godot 2D Basics: Underwater Shooter](https://mpostument.com/posts/programming/godot/godot_underwater_shooter/) (6 days ago)
-- [Godot 2D Basics: Movement, Animation and Collision](https://mpostument.com/posts/programming/godot/godot_movement_collision/) (1 week ago)
-- [Godot Intro](https://mpostument.com/posts/programming/godot/godot_intro/) (1 week ago)
+- [Godot 2D Basics: Underwater Shooter](https://mpostument.com/posts/programming/godot/godot_underwater_shooter/) (1 week ago)
+- [Godot 2D Basics: Movement, Animation and Collision](https://mpostument.com/posts/programming/godot/godot_movement_collision/) (2 weeks ago)
+- [Godot Intro](https://mpostument.com/posts/programming/godot/godot_intro/) (2 weeks ago)
 - [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (11 months ago)
-- [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (11 months ago)
+- [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (1 year ago)
 
 #### 📫 How to reach me
 
