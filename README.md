@@ -7,14 +7,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) ([1.40.0-helm](https://github.com/opencost/opencost-helm-chart/releases/tag/1.40.0-helm), 2 days ago) - OpenCost Helm chart 
-- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v2.3.1](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v2.3.1), 4 days ago) - Kubecost helm chart
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) ([1.40.0-helm](https://github.com/opencost/opencost-helm-chart/releases/tag/1.40.0-helm), 3 days ago) - OpenCost Helm chart 
+- [kubecost/cost-analyzer-helm-chart](https://github.com/kubecost/cost-analyzer-helm-chart) ([v2.3.1](https://github.com/kubecost/cost-analyzer-helm-chart/releases/tag/v2.3.1), 5 days ago) - Kubecost helm chart
 
 #### 📜 My recent blog posts
 
-- [Godot 2D Basics: Underwater Shooter](https://mpostument.com/posts/programming/godot/godot_underwater_shooter/) (2 weeks ago)
-- [Godot 2D Basics: Movement, Animation and Collision](https://mpostument.com/posts/programming/godot/godot_movement_collision/) (3 weeks ago)
-- [Godot Intro](https://mpostument.com/posts/programming/godot/godot_intro/) (3 weeks ago)
+- [Godot 2D Basics: Underwater Shooter](https://mpostument.com/posts/programming/godot/godot_underwater_shooter/) (3 weeks ago)
+- [Godot 2D Basics: Movement, Animation and Collision](https://mpostument.com/posts/programming/godot/godot_movement_collision/) (4 weeks ago)
+- [Godot Intro](https://mpostument.com/posts/programming/godot/godot_intro/) (4 weeks ago)
 - [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (11 months ago)
 - [Monitoring Kibana with OpenTelemetry Collector: Gathering Logs and Metrics](https://mpostument.com/posts/programming/observability/otel-kibana/) (1 year ago)
 
