@@ -12,7 +12,7 @@
 
 #### 📜 My recent blog posts
 
-- [Godot 2D Basics: Underwater Shooter](https://mpostument.com/posts/programming/godot/godot_underwater_shooter/) (1 month ago)
+- [Godot 2D Basics: Underwater Shooter](https://mpostument.com/posts/programming/godot/godot_underwater_shooter/) (2 months ago)
 - [Godot 2D Basics: Movement, Animation and Collision](https://mpostument.com/posts/programming/godot/godot_movement_collision/) (2 months ago)
 - [Godot Intro](https://mpostument.com/posts/programming/godot/godot_intro/) (2 months ago)
 - [Optimizing Elasticsearch Monitoring with OpenTelemetry: A Comprehensive Guide](https://mpostument.com/posts/programming/observability/otel-elasticsearch/) (1 year ago)
